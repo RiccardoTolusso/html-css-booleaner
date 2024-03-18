@@ -85,3 +85,29 @@ header > img{
 
 
 /* FOOTER  */
+footer {
+    margin-top: 6vh;
+}
+
+footer > h3{
+    font-size: 1.6vw;
+    color: gray;
+}
+
+footer .image{
+    background-color: blue;
+    width: 25vw;
+    height: 25vw;
+    margin-top: 5px;
+    font-size: 1.8vw;
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+footer .image#foot-img-1{
+    background-image: url("../img/monitor.jpg");
+}
+
+footer .image#foot-img-2{
+    background-image: url("../img/graph.jpg");
+}
