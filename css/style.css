@@ -45,4 +45,17 @@ header > img{
 }
 
 
+/* ARTICLE SECTION */
 
+.article-section > *{
+    margin-top: 3vh;
+}
+.article-section > p{
+    font-size: 1.2vw;
+}
+.article-section .higlight{
+    background-color: rgba(230, 255, 6, 0.766);
+}
+.article-section > ul{
+    padding-left: 20px;
+}
