@@ -4,6 +4,11 @@
     padding: 0;
 }
 
+body{
+    padding-left: 5vw;
+    padding-right: 5vw;
+}
+
 header {
     height: 10vh;
     background-image: url("../img/pattern.png");
@@ -33,11 +38,11 @@ header > img{
     margin-bottom: 4vh;
 }
 .title-section > img:nth-of-type(1){
-    width: 53vw;
+    width: 48vw;
     height: 30vw;
 }
 .title-section > img:nth-of-type(2){
-    width: 45vw;
+    width: 40vw;
     height: 30vw;
 }
 .title-section > .img-description{
@@ -74,10 +79,10 @@ header > img{
     text-align: left;
 }
 .article-section td{
-    width: 25vw;
+    width: 23vw;
 }
 .article-section td:nth-of-type(3n){
-    width: 50vw;
+    width: 49vw;
 }
 .article-section tbody > tr:nth-child(2n-1){
     background-color: rgb(192, 229, 249);
